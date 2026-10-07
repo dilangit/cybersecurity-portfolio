@@ -17,6 +17,11 @@ This portfolio contains notes from training labs I have completed on TryHackMe a
 - [HACKTHEBOX - profile] - https://profile.hackthebox.com/profile/01a11614-cbb0-70e5-b5b1-22a6ed715aac?utm_medium=copy_url
 - [PortSwigger Web Security Academy profile](PASTE-YOUR-PORTSWIGGER-PROFILE-LINK-HERE)
 
+## Experience and practical work
+
+- [ANZ internship](internships/anz-internship.md)
+- [Authorised black-box web assessment](internships/black-box-web-assessment.md)
+- 
 ## Selected writeups
 
 Writeups will be added here as I complete and document labs.
