@@ -21,7 +21,14 @@ This portfolio contains notes from training labs I have completed on TryHackMe a
 
 - [ANZ internship](internships/anz-internship.md)
 - [Authorised black-box web assessment](internships/black-box-web-assessment.md)
-- 
+
+**GRC Frameworks Training – Hands-on Agile Coaching**
+
+Completed training in cybersecurity Governance, Risk and Compliance (GRC), focusing on security governance, risk management, compliance principles and the application of cybersecurity frameworks.
+
+[View my GRC training and learning notes](GRC-Frameworks/README.md)
+
+
 ## Selected writeups
 
 Writeups will be added here as I complete and document labs.
