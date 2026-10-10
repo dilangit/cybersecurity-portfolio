@@ -193,6 +193,50 @@ I plan to expand this section with sanitised examples of:
 All examples will exclude confidential application information and sensitive testing evidence.
 
 ---
+## Technical Presentation — Business Logic Vulnerabilities
+
+As part of my Cybersapiens cybersecurity internship, I prepared a technical presentation titled **"Business Logic Vulnerabilities — Theory, Practical Demonstration & Mitigation."**
+
+The presentation explored how weaknesses in application workflows and business rules can be exploited even when an application appears to function correctly.
+
+### Topics Covered
+
+- Understanding business logic vulnerabilities
+- Price manipulation and coupon abuse
+- Workflow bypass and quantity manipulation
+- Race conditions
+- Authentication and authorisation logic flaws
+- Business impact, including financial loss and fraud
+- Manual vulnerability testing and detection techniques
+- Secure development and mitigation strategies
+
+### Practical Demonstration
+
+I used the PortSwigger Web Security Academy lab **"Excessive trust in client-side controls"** to demonstrate a business logic weakness involving manipulation of a product's purchase price.
+
+The demonstration covered:
+
+1. Browsing the application's shopping functionality.
+2. Capturing an HTTP request using Burp Suite.
+3. Modifying request parameters.
+4. Replaying the modified request.
+5. Verifying the business logic weakness.
+
+### Mitigation Strategies Discussed
+
+- Server-side validation of security-sensitive values
+- Enforcement of application workflow states
+- Rate limiting
+- Transaction integrity checks
+- Security testing of unusual application behaviours
+
+### Skills Demonstrated
+
+**Web Application Security | Burp Suite | HTTP Request Manipulation | Business Logic Testing | Vulnerability Analysis | Technical Presentation | Security Awareness**
+
+**Lab Reference:** [PortSwigger — Excessive trust in client-side controls](https://portswigger.net/web-security/logic-flaws/examples/lab-logic-flaws-excessive-trust-in-client-side-controls)
+
+This project demonstrates my ability to research cybersecurity vulnerabilities, explain their potential business impact and communicate practical security testing and remediation concepts.
 
 ## Confidentiality and Responsible Disclosure
 
