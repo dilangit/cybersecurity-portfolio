@@ -19,7 +19,7 @@ This portfolio contains notes from training labs I have completed on TryHackMe a
 
 ## Experience and practical work
 
-- [ANZ — Cybersecurity Virtual Experience]([internships/ANZ-Cybersecurity-Simulation.md](https://github.com/dilangit/cybersecurity-portfolio/blob/main/internships/anz-cyber-security-management.md))
+- [ANZ — Cybersecurity Virtual Experience](https://github.com/dilangit/cybersecurity-portfolio/blob/main/internships/anz-cyber-security-management.md)
 - [Authorised black-box web assessment](internships/black-box-web-assessment.md)
 
 **GRC Frameworks Training – Hands-on Agile Coaching**
