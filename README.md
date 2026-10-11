@@ -44,4 +44,4 @@ Writeups will be added here as I complete and document labs.
 
 The writeups in this portfolio are based on authorised training labs. They do not describe testing against real systems unless explicitly stated and authorised.
 
-https://profile.hackthebox.com/profile/01a11614-cbb0-70e5-b5b1-22a6ed715aac?utm_medium=copy_url
+
